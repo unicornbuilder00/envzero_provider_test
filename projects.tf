@@ -1,4 +1,4 @@
-tdata "env0_project" "default_project" {
+data "env0_project" "default_project" {
   name = "JC Bootstrap Test"
 }
 
