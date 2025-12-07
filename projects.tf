@@ -1,5 +1,5 @@
 data "env0_project" "default_project" {
-  name = "Default Organization Project"
+  name = "JC Bootstrap Test"
 }
 
 resource "env0_project" "new_team_project" {
