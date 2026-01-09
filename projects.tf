@@ -19,7 +19,7 @@ resource "env0_project" "Templates_Bootstrap" {
 }
 
 resource "env0_project" "Environments_Bootstrap" {
-  name              = "Environments Bootstrap"
+  name              = "Environments Bootstrapp"
   description       = "Project for Boostrapping Environments"
   parent_project_id = data.env0_project.default_project.id
 }
