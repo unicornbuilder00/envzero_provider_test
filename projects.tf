@@ -29,3 +29,5 @@ resource "env0_project" "Variables_Bootstrap" {
   description       = "Project for Bootstraping Variables"
   parent_project_id = data.env0_project.default_project.id
 }
+
+#BRYANTSUCKS
