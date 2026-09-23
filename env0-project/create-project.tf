@@ -12,7 +12,7 @@ provider "env0" {}
 variable "project_name" {
   type        = string
   description = "Name of the env0 project to create"
-  default     = "my-new-project"
+  default     = "spencer-smells"
 }
 
 variable "project_description" {
