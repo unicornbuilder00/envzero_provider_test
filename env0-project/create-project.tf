@@ -17,7 +17,7 @@ variable "project_name" {
 
 variable "project_description" {
   type    = string
-  default = "Spencer is a bitch!"
+  default = "Spencer is a bitch! 2"
 }
 
 resource "env0_project" "this" {
