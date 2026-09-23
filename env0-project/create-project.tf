@@ -17,7 +17,7 @@ variable "project_name" {
 
 variable "project_description" {
   type    = string
-  default = "Created by env0 using Terraform"
+  default = "Spencer is a bitch!"
 }
 
 resource "env0_project" "this" {
